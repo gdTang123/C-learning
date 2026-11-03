@@ -1,0 +1,22 @@
+# 编译输出
+build/
+out/
+cmake-build-*/
+compile_commands.json
+
+# 编译器中间文件与可执行文件
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+a.out
+
+# 第 17 周通讯录可能生成的数据文件
+contacts.txt
+
+# 编辑器缓存
+.vscode/*.log
+.cache/
+.vs/
